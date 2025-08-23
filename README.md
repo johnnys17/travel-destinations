@@ -51,5 +51,5 @@ JohnnyFSE
 🔗 [GitHub Profile](https://github.com/johnnys17)
 
 
-Feel free to explore the code, suggest improvements, or use it as inspiration. Contributions are welcome—check the Issues tab for ideas!
+Feel free to explore the code, suggest improvements, or use it as inspiration. Contributions are welcome.
 
