@@ -2,11 +2,11 @@
 
 A responsive and visually engaging website for a fictional travel agency, developed as part of my full-stack web development journey. This project showcases my skills in HTML, CSS, and layout design using Flexbox, featuring interactive hover animations, a card-based design for three popular destinations—Paris, Tokyo, and New York—and "Explore Now" buttons for enhanced user interaction. The site is optimized for a seamless user experience across devices, with a modern aesthetic that highlights my attention to detail and design sensibility.
 
-Built to refine my front-end development capabilities, this webpage serves as a key piece in my portfolio as I pursue a career in web development. The use of Flexbox ensures a flexible, responsive layout, while hover effects demonstrate dynamic styling. Future enhancements could include JavaScript for interactivity (e.g., a search function) or additional sections like a blog or booking system.
+Built to refine my front-end development capabilities, this webpage serves as a key piece in my portfolio as I pursue a career in web development. The use of Flexbox ensures a flexible, responsive layout, while hover effects demonstrate dynamic styling. Future enhancements could include JavaScript for interactivity (e.g., a search function) or additional sections like a blog or booking system. Note: Not fully mobile-ready; card overlays require JavaScript for tap functionality.
 
 🌐**Live Demo**
 
-- link here
+- [Live Link](https://johnnys17.github.io/travel-destinations/)
 
 🛠️**Tech Stack**
 
